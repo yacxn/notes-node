@@ -12,6 +12,9 @@
   },
   "author": "Yacxn",
   "license": "ISC",
+  "dependencies": {
+  "lodash": "^4.13.1"
+},
   "bugs": {
     "url": "https://github.com/yacxn/notes-node/issues"
   },
